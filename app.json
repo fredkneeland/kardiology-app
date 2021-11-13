@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kardiology-app",
+    "slug": "kardiology-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kardiology-app"
+}
